@@ -17,6 +17,10 @@ royalty-free music and sound effects
 animations for enemies and player
 background?
 
+i think a possible idea could be to have the Ushape (aka the player) stay within the same 'box'
+and the enemies come from around the edges of the box into the player's screen
+every once in a while (or at the end of the game) a massive boss shape could appear
+
 Tools requested:
 Git and GitKraken for version control
 Gitlab/Github for repository
